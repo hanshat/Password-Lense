@@ -5,7 +5,7 @@ function Footer() {
     <footer className="flex justify-center">
       <a
         className="group p-2"
-        href="https://github.com/wKovacs64/pwl"
+        href="https://github.com/hanshat/Password-Lense"
         rel="noopener noreferrer"
       >
         <FaGithub
