@@ -4,16 +4,16 @@
   "description": "Static web application to reveal character types in a password",
   "type": "module",
   "author": {
-    "name": "Justin Hall",
-    "email": "justin.r.hall@gmail.com"
+    "name": "Hans Temu",
+    "email": "carticyber@gmail.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wKovacs64/pwl.git"
+    "url": "https://github.com/hanshat/pwl.git"
   },
   "bugs": {
-    "url": "https://github.com/wKovacs64/pwl/issues"
+    "url": "https://github.com/hanshat/pwl/issues"
   },
   "scripts": {
     "build": "vite build",
